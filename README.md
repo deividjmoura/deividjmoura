@@ -25,6 +25,6 @@
   <a href="https://wa.me/5547996162721?text=Hello,%20what's%20up!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://t.me/deividjmoura!" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/rafaballerini/deividjmoura/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/deividjmoura/deividjmoura/blob/output/github-contribution-grid-snake.svg)
  
 </div>
