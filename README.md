@@ -4,7 +4,9 @@
 - 👯 I’m looking to collaborate on <a href="https://github.com/deividjmoura/Pic-Pro/projects?type=classic">Pic-Pro Project</a>
 - 🤔 I’m looking for help with ...
 - 😂 Fun fact: I can't use the same OS on my cellphone more than 6 months.
-
+<div style="display: inline_block"><br>
+ ![Snake animation](https://github.com/deividjmoura/deividjmoura/blob/output/github-contribution-grid-snake.svg)
+</div>
 <div align="center">
   <a href="https://deividmoura.netlify.app">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=deividjmoura&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -24,7 +26,4 @@
   <a href="https://www.linkedin.com/in/deivid-de-jesus-de-moura-26328a232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5547996162721?text=Hello,%20what's%20up!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://t.me/deividjmoura!" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/deividjmoura/deividjmoura/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
