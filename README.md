@@ -7,13 +7,13 @@
 
 <div align="center">
   <a href="https://deividmoura.netlify.app">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=deividjmoura&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividjmoura&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=deividjmoura&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividjmoura&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Deivid-Js" height="150" width="170" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Deivid-HTML" height="100" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Deivid-CSS" height="100" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Deivid-HTML" height="150" width="170" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Deivid-CSS" height="150" width="170" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="right" alt="Deivid-pic" height="150" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
   
