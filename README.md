@@ -1,7 +1,7 @@
 ### Hi! Be very welcome! I'm Deivid Moura 🙋‍♂️
 - 🔭  I currently work at Havan - the Largest Department Store in Brazil, as a sales assistant;
 - 🌱 I’m currently learning JavaScript...
-- 👯 I’m looking to collaborate on <a href="https://github.com/deividjmoura/Pic-Pro/projects?type=classic">Pic-Pro Project</a>
+- 👯 I’m looking to collaborate on <a href="https://vendas-online.vercel.app">Vendas Online Project</a>
 - 😂 Fun fact: I can't use the same OS on my cellphone more than 6 months.
 <div style="display: inline_block"><br>
  
