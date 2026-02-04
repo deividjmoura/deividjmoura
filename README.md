@@ -3,11 +3,11 @@
 - 🌱 Learning Computer Science (CS50 – Harvard / Fundação Estudar)  
 - 😂 Fun fact: I can’t keep the same phone OS longer than 6 months  
 
-<!-- Gato comendo os dias trabalhados -->
+<!-- Cobrinha comendo os dias -->
 <div align="center">
   <img src="https://count.getloli.com/get/@deividjmoura?theme=rule34&padding=10&darkmode=auto"/>
   <br/>
-  <img src="https://i.imgur.com/3kL5v3A.gif" width="180" alt="gato-comendo-dias"/>
+  <img src="https://raw.githubusercontent.com/deividjmoura/assets/main/snake.gif" width="220" alt="cobrinha-comendo-dias"/>
 </div>
 
 <!-- Stats cards -->
