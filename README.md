@@ -1,13 +1,13 @@
 ### Hi! Be very welcome! I'm Deivid Moura 🙋‍♂️
-- 📱 I currently work at Samsung Experience Store, as a Sales Consultant;
-- 🌱 I’m currently learning Computer Science...
-- 📚 I'm studying CS50 at Harvard, through the  portal <a href="https://www.estudar.org.br/">Fundação Estudar</a>
-- 😂 Fun fact: I can't use the same OS on my cellphone more than 6 months.
+- 📱 Sales Consultant – Samsung Experience Store  
+- 🌱 Learning Computer Science (CS50 – Harvard / Fundação Estudar)  
+- 😂 Fun fact: I can’t keep the same phone OS longer than 6 months  
 
-<!-- Contador todos os dias + cachorro comendo maçã -->
+<!-- Gato comendo os dias trabalhados (gif) -->
 <div align="center">
-  <img src="https://count.getloli.com/get/@deividjmoura?theme=rule34&padding=10&darkmode=auto& Sabbath=0"/>
-  <img src="https://i.imgur.com/8vX0L1N.png" width="80" alt="dog-apple"/>
+  <img src="https://i.imgur.com/8vX0L1N.png" width="80" alt="dog-apple"/><!-- substituir pelo gato -->
+  <img src="https://count.getloli.com/get/@deividjmoura?theme=rule34&padding=10&darkmode=auto"/>
+  <img src="https://i.imgur.com/3kL5v3A.gif" width="120" alt="gato-comendo-dias"/>
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
   <img height="150" width="170" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img height="150" width="170" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="150" width="170" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="150" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <!-- ícone do GitHub removido aqui -->
 </div>
 
 <div align="center">
