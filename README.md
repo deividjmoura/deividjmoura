@@ -5,16 +5,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deividjmoura&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividjmoura&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-
----
-
-## 🐍 Contribution Snake (commits em movimento)
+## 🐍 Contribution
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/deividjmoura/deividjmoura/output/github-contribution-grid-snake-dark.svg" />
@@ -25,9 +16,9 @@
 ## 🚀 Technologies
 
 <div align="center">
-  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
-  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img height="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img height="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
+  <img height="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 </div>
 
 ---
