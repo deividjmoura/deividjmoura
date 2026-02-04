@@ -5,8 +5,7 @@
 - 😂 Fun fact: I can't use the same OS on my cellphone more than 6 months.
 <div style="display: inline_block"><br>
  
- ![Snake animation](https://github.com/deividjmoura/deividjmoura/blob/output/github-contribution-grid-snake.svg)
-
+![Snake](https://raw.githubusercontent.com/deividjmoura/deividjmoura/output/snake.gif)
 </div>
 <div align="center">
   <a href="https://deividmoura.netlify.app">
