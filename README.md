@@ -14,7 +14,7 @@
 ## 👾 Contribution Invaders
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/deividjmoura/deividjmoura/output/git-invader-green-dark.svg" alt="GitHub contribution Space Invaders" />
+  <img src="https://raw.githubusercontent.com/deividjmoura/deividjmoura/output/git-invader-multi-dark.svg" alt="GitHub contribution Space Invaders" />
 </div>
 
 ---
