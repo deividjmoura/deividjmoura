@@ -65,16 +65,17 @@
 
 ## 📊 Stats
 
+## 📊 Stats
+
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=deividjmoura&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=deividjmoura&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deividjmoura&theme=tokyonight" height="180" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com/?user=deividjmoura&theme=tokyonight&hide_border=true" height="180" alt="GitHub streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividjmoura&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deividjmoura&theme=tokyonight" height="180" alt="Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deividjmoura&theme=tokyonight" height="180" alt="Most commit language"/>
 </div>
-
----
 
 ## 🌐 Contato
 
