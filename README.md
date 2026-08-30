@@ -65,8 +65,6 @@
 
 ## 📊 Stats
 
-## 📊 Stats
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deividjmoura&theme=tokyonight" height="180" alt="GitHub stats"/>
   <img src="https://streak-stats.demolab.com/?user=deividjmoura&theme=tokyonight&hide_border=true" height="180" alt="GitHub streak"/>
