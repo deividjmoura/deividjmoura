@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 160" width="720" height="160" role="img" aria-label="Deivid Moura DEV">
+  <rect width="720" height="160" fill="none"/>
+  <g transform="translate(70 80) scale(0.55)">
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#22d3ee" stroke-width="16">
+      <path d="M40-70 L-10-70 L-40-25 L-40 25 L-10 70 L40 70"/>
+      <path d="M55-40 L90-10 L90 10 L55 40"/>
+      <path d="M0-12 L35 0 L0 12"/>
+    </g>
+    <g transform="translate(130 0)" stroke="#67e8f9" fill="#e0f2fe" stroke-width="2">
+      <circle cx="0" cy="-36" r="3"/><circle cx="32" cy="0" r="3"/><circle cx="0" cy="36" r="3"/><circle cx="-32" cy="0" r="3"/>
+      <path d="M0-36 L32 0 L0 36 L-32 0 Z" fill="none" stroke="#22d3ee" stroke-width="1.5"/>
+    </g>
+  </g>
+  <text x="220" y="88" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="600" fill="#0f172a">Deivid Moura <tspan fill="#0891b2" font-weight="700">DEV</tspan></text>
+  <text x="220" y="118" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#64748b" letter-spacing="2">SYSTEMS · QR · AUTOMATION</text>
+</svg>

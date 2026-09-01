@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" width="640" height="640" role="img" aria-label="Deivid Moura DEV">
+  <rect width="640" height="640" fill="#050505"/>
+  <!-- network sphere -->
+  <g transform="translate(360 250)" opacity="0.95">
+    <circle cx="0" cy="0" r="110" fill="none" stroke="#22d3ee" stroke-width="1.5" opacity="0.35"/>
+    <circle cx="0" cy="0" r="78" fill="none" stroke="#67e8f9" stroke-width="1.2" opacity="0.45"/>
+    <!-- nodes -->
+    <g fill="#e0f2fe" stroke="#22d3ee" stroke-width="1">
+      <circle cx="0" cy="-78" r="4"/><circle cx="55" cy="-55" r="3.5"/><circle cx="78" cy="0" r="4"/>
+      <circle cx="55" cy="55" r="3.5"/><circle cx="0" cy="78" r="4"/><circle cx="-55" cy="55" r="3.5"/>
+      <circle cx="-78" cy="0" r="4"/><circle cx="-55" cy="-55" r="3.5"/>
+      <circle cx="30" cy="-30" r="3"/><circle cx="40" cy="20" r="3"/><circle cx="-25" cy="35" r="3"/>
+      <circle cx="-40" cy="-15" r="3"/><circle cx="10" cy="50" r="2.5"/><circle cx="-10" cy="-45" r="2.5"/>
+    </g>
+    <!-- links -->
+    <g stroke="#22d3ee" stroke-width="1.2" opacity="0.75" fill="none">
+      <path d="M0-78 L55-55 L78 0 L55 55 L0 78 L-55 55 L-78 0 L-55-55 Z"/>
+      <path d="M0-78 L30-30 L40 20 L10 50 L0 78"/>
+      <path d="M78 0 L40 20 L-25 35 L-78 0"/>
+      <path d="M-55-55 L-40-15 L30-30 L55-55"/>
+      <path d="M-40-15 L-25 35 L55 55"/>
+      <path d="M-10-45 L30-30 L-25 35"/>
+    </g>
+  </g>
+  <!-- code brackets mark -->
+  <g transform="translate(175 250)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M70-95 L10-95 L-25-40 L-25 40 L10 95 L70 95" stroke="url(#grad)" stroke-width="18"/>
+    <path d="M95-55 L140-20 L140 20 L95 55" stroke="url(#grad)" stroke-width="16"/>
+    <path d="M-5-15 L45 0 L-5 15" stroke="url(#grad)" stroke-width="14"/>
+  </g>
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <!-- wordmark -->
+  <text x="320" y="470" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="600" fill="#f8fafc">Deivid Moura <tspan fill="#22d3ee" font-weight="700">DEV</tspan></text>
+  <line x1="200" y1="500" x2="280" y2="500" stroke="#334155" stroke-width="2"/>
+  <line x1="360" y1="500" x2="440" y2="500" stroke="#22d3ee" stroke-width="2"/>
+</svg>
