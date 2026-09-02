@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C45C26&center=true&vCenter=true&width=520&lines=Dev+em+evolu%C3%A7%C3%A3o;Node+%C2%B7+Next.js+%C2%B7+Python+%2F+IA;Aprendendo+na+pr%C3%A1tica%2C+projeto+a+projeto)](https://git.io/typing-svg)
 
-- 🏭 **Lear Corporation** — Operador de Corte · [lear.com](https://www.lear.com/)
+- 🏭 [**Lear Corporation**](https://www.lear.com/)
 - 📍 Penha, SC — Brasil
 - 💼 Freelas e sistemas que resolvem o dia a dia (web, filas, IA)
 - 🌱 Aprendendo na prática — cursos + projetos reais (sem faculdade/técnico formal)
-- ⚡ Operador de produção de dia · construtor de sistemas de madrugada
+- ⚡ Operador de Corte de madrugada · construtor de sistemas de dia
 - 😂 Troco de ideia de projeto quase tão rápido quanto de SO no celular — e às vezes o melhor professor é um bug às 2h com um assistente de IA teimoso
 
 ---
@@ -23,7 +23,7 @@
 
 | Projeto | O que é | Stack |
 |--------|---------|--------|
-| **[lanchonete-qr](https://github.com/deividjmoura/lanchonete-qr)** | Pedidos por QR: cardápio → cozinha → garçom → caixa | Node.js · PostgreSQL |
+| **[lanchonete-qr](https://github.com/deividjmoura/lanchonete-qr-presentation)** | Pedidos por QR: cardápio → cozinha → garçom → caixa | Node.js · PostgreSQL |
 | **[fyde-jarvis](https://github.com/deividjmoura/fyde-jarvis)** | Assistente IA híbrido (voz local + cérebro na nuvem) | Python · FastAPI · LangGraph |
 | **[entregas-teste](https://github.com/deividjmoura/entregas-teste)** | Central de despacho em tempo real | Next.js · Prisma · Firebase |
 
@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
-  <sub>Feito com café, commits e curiosidade · Penha/SC</sub>
+  <sub>Feito com muito ☕, curiosidade e ❤️· Penha/SC</sub>
 </div>
 
 ---
@@ -110,6 +110,6 @@
   <a href="https://wa.me/5547984746350?text=Ol%C3%A1%20Deivid!%20Quero%20falar%20sobre%20parceria%20/%20projeto.">
     <img src="https://raw.githubusercontent.com/deividjmoura/deividjmoura/main/assets/logo-deivid-moura-dev.svg" alt="Deivid Moura DEV" width="140"/>
   </a><br/>
-  <sub><b>Deivid Moura DEV</b> · parcerias e sistemas sob medida</sub>
+  <sub><b>© 2026 Deivid Moura DEV</b> · parcerias e sistemas sob medida</sub>
 </p>
 
